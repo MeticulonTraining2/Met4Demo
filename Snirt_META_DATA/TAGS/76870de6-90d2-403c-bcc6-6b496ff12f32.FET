@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>76870de6-90d2-403c-bcc6-6b496ff12f32</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>TestFile1.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\Met4Demo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>d207cfdf-b223-4b9a-9a99-7e0a096c6190</guid>
+  </Tags>
+</FolderEntryTags>
