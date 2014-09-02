@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>99817d9c-bb9a-4ef8-aee6-5ded13fa3f47</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>README.md</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\Met4Demo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>6fe0aa4e-019a-4ca2-a408-954b04813212</guid>
+  </Tags>
+</FolderEntryTags>
